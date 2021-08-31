@@ -31,6 +31,6 @@ int main(){
     for(int i=result.length()-1;i>=0;i--){
         cout << result[i];
     }
-
     return 0;
+    //return 0;
 }
