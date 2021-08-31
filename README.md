@@ -1,1 +1,3 @@
-# Coding-Practice
+# Coding-Practic
+C++, Python 공부용
+BaekJoon 기초 기출 문제 풀이중...
