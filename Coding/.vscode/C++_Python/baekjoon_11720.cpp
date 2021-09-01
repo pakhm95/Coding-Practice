@@ -1,7 +1,7 @@
+//https://www.acmicpc.net/problem/11720 - 숫자의 합
 #include <iostream>
-#include <cmath>
-
 using namespace std;
+
 int main() {
     int input1;
     string input2;

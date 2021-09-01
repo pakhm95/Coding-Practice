@@ -1,3 +1,4 @@
+//https://www.acmicpc.net/problem/2739 - 구구단
 #include <iostream>
 using namespace std;
 

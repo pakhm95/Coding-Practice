@@ -1,3 +1,4 @@
+//https://www.acmicpc.net/problem/1712 - 손익분기점
 #include <iostream>
 
 using namespace std;

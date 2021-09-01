@@ -1,3 +1,4 @@
+//https://www.acmicpc.net/problem/1193 - 분수찾기
 #include <iostream>
 
 using namespace std;

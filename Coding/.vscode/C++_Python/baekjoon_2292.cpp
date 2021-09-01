@@ -1,3 +1,4 @@
+//https://www.acmicpc.net/problem/2292 - 벌집
 #include <iostream>
 
 using namespace std;

@@ -1,10 +1,10 @@
+#https://www.acmicpc.net/problem/2941 - 크로아티아 알파벳
 croatia = ["c=","c-","dz=","d-","lj","nj","s=","z="]
-alpabat = input("Enter Croatia Alpabat : ")[:100]
-print("Input String : " + alpabat)
+alpabet = input()[:100]
 
 swich = 0
 for char in croatia:
-    swich = alpabat.find(char)
+    swich = alpabet.find(char)
     if(swich != -1):
-        alpabat = alpabat.replace(char,"1")
-print(len(alpabat))
+        alpabet = alpabet.replace(char,"1")
+print(len(alpabet))
