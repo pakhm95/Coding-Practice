@@ -1,0 +1,6 @@
+case_id	case_submitter_id	project_id	relationship_age_at_diagnosis	relationship_gender	relationship_primary_diagnosis	relationship_type	relative_deceased	relative_smoker	relative_with_cancer_history	relatives_with_cancer_history_count
+098d387f-beb5-48e2-ad69-537db301dff4	HCM-WCMC-0789-C34	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+3b013c00-dfc1-451e-aacc-be734f4b1c00	HCM-CSHL-0058-C34	HCMI-CMDC	'--	'--	Lung Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+56c07b06-c6d3-4c03-9e57-7be636e7cc5c	HCM-BROD-0027-C34	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+c14d7245-1a9c-45cf-b284-8f49c3fe2ec9	HCM-WCMC-0749-C34	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
+dd88a8a4-517b-40ad-a4f3-201e20875cfe	HCM-BROD-0449-C34	HCMI-CMDC	'--	'--	Cancer	First Degree Relative, NOS	'--	'--	yes	'--
