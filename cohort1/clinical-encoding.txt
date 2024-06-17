@@ -1,0 +1,99 @@
+gender : male > 1, female > 2, Unknown > 99
+
+vital status : Alive > 1, Dead > 0
+
+ajcc_pathologic_m : M0 > 0, M1 > 1, M1a > 2, M1b > 3, Unknown/MX > 99
+
+ajcc_pathologic_n : N0 > 0, N1 > 1, N2 > 2, N3 > 3, NX/Unknown > 99
+
+ajcc_pathologic_stage : Stage I > 1, 
+						Stage IA > 1.1, 
+						Stage IA1 > 1.11, 
+						Stage IA2 > 1.12, 
+						Stage IA3 > 1.13, 
+						Stage IB > 1.2,
+						Stage II > 2,
+						Stage IIA > 2.1,
+						Stage IIB > 2.2,
+						Stage III > 3,
+						Stage IIIA > 3.1,
+						Stage IIIB > 3.2,
+						Stage IV > 4
+ajcc_pathologic_t: Unknown/TX > 99,
+				   T1 > 1,
+				   T1a > 1.1,
+				   T1b > 1.2,
+				   T1c > 1.3,
+				   T2 > 2,
+				   T2a > 2.1,
+				   T2b > 2.2
+				   T3 > 3,
+				   T3a > 3.1,
+				   T4 > 4
+				   
+classification_of_tumor : not reported/Unknown > 99,
+						  primary > 1,
+						  Prior primary > 2,
+						  Synchronous primary > 3,
+						  metastasis > 4
+						  
+mprimary_diagnosis : not reported > 99,
+					 Adenocarcinoma, NOS > 1,
+					 Squamous cell carcinoma, NOS > 2,
+					 Adenocarcinoma with mixed subtypes > 3,
+					 Bronchio-alveolar carcinoma, mucinous > 4,
+					 Squamous cell carcinoma, keratinizing, NOS > 5,
+					 Bronchiolo-alveolar adenocarcinoma, NOS > 6,
+					 Acinar cell carcinoma > 7,
+					 Papillary adenocarcinoma, NOS > 8,
+					 Mucinous adenocarcinoma > 9,
+					 Bronchiolo-alveolar carcinoma, non-mucinous > 10,
+					 Papillary squamous cell carcinoma > 11,
+					 Basaloid squamous cell carcinoma > 12,
+					 Adenosquamous carcinoma > 13,
+					 Squamous cell carcinoma, large cell, nonkeratinizing, NOS > 14,
+					 Solid carcinoma, NOS > 15,
+					 Small cell carcinoma, NOS > 16,
+					 Squamous cell carcinoma, small cell, nonkeratinizing > 17,
+					 Carcinoma, NOS > 18,
+					 Neoplasm, NOS > 19,
+					 Large cell neuroendocrine carcinoma > 20,
+					 Signet ring cell carcinoma > 21,
+					 Clear cell adenocarcinoma, NOS > 22,
+					 Micropapillary carcinoma, NOS > 23,
+					 Non-small cell carcinoma > 24,
+					 Combined small cell carcinoma > 25,
+					 Burkitt lymphoma, NOS (Includes all variants) > 26,
+					 Tumor, NOS > 27,
+					 Squamous cell carcinoma, nonkeratinizing, NOS > 28,
+					 Carcinoma, undifferentiated, NOS > 29
+					 
+prior_malignancy : no > 0, yes > 1, Unknown > 99
+
+prior_treatment : no > 0, yes > 1, Unknown > 99
+
+progression_or_recurrence: no > 0, yes > 1, Unknown/not reported > 99
+
+residual_disease : R0 > 0, R1 > 1, R2 > 2, Unknown/RX > 99
+
+site_of_resection_or_biopsy: Upper lobe, lung > 1,
+							 Lower lobe, lung > 2,
+							 Middle lobe, lung > 3,
+							 Lung, NOS > 4,
+							 Brain, NOS > 5,
+							 Main bronchus > 6,
+							 Connective, subcutaneous and other soft tissues of head, face, and neck > 7,
+
+synchronous_malignancy : no > 0, yes > 1, Unknown/not reported > 99
+
+treatment_or_therapy : no > 0, yes > 1, Unknown/not reported > 99
+
+treatment_type : Unknown/not reported > 99,
+				 Pharmaceutical Therapy, NOS > 1,
+				 Radiation Therapy, NOS > 2,
+				 Surgery, NOS > 3,
+				 Stereotactic Radiosurgery > 4,
+				 Chemotherapy > 5,
+				 Immunotherapy (Including Vaccines) > 6,
+				 Targeted Molecular Therapy > 7,
+				 Radiation, Stereotactic/Gamma Knife/SRS > 8
